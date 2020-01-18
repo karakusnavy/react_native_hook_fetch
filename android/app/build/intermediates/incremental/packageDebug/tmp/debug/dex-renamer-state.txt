@@ -1,0 +1,4 @@
+#Sat Jan 18 16:18:21 EET 2020
+base.0=C\:\\Users\\Samet\\Desktop\\react_native_hook_fetch_app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
